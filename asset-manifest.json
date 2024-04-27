@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/discord_friend_times/static/css/main.f855e6bc.css",
-    "main.js": "/discord_friend_times/static/js/main.4c1ae4e4.js",
+    "main.css": "/discord_friend_times/static/css/main.4e84b398.css",
+    "main.js": "/discord_friend_times/static/js/main.ceef89cd.js",
     "static/js/453.49cac973.chunk.js": "/discord_friend_times/static/js/453.49cac973.chunk.js",
     "service-worker.js": "/discord_friend_times/service-worker.js",
-    "static/media/logo.svg": "/discord_friend_times/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/settings-svgrepo-com.svg": "/discord_friend_times/static/media/settings-svgrepo-com.f9d042a578cd9290ca64c2d09312c8f0.svg",
+    "static/media/home-svgrepo-com.svg": "/discord_friend_times/static/media/home-svgrepo-com.474e5f7c968358120363db463fc636ed.svg",
     "index.html": "/discord_friend_times/index.html",
-    "main.f855e6bc.css.map": "/discord_friend_times/static/css/main.f855e6bc.css.map",
-    "main.4c1ae4e4.js.map": "/discord_friend_times/static/js/main.4c1ae4e4.js.map",
+    "static/media/plus-large-svgrepo-com.svg": "/discord_friend_times/static/media/plus-large-svgrepo-com.1885a71411f0e88c278e63eb7ebb893c.svg",
+    "main.4e84b398.css.map": "/discord_friend_times/static/css/main.4e84b398.css.map",
+    "main.ceef89cd.js.map": "/discord_friend_times/static/js/main.ceef89cd.js.map",
     "453.49cac973.chunk.js.map": "/discord_friend_times/static/js/453.49cac973.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.4c1ae4e4.js"
+    "static/css/main.4e84b398.css",
+    "static/js/main.ceef89cd.js"
   ]
 }
