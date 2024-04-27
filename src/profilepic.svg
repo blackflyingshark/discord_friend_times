@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="138" viewBox="0 0 138 138">
+    <foreignObject x="0" y="0" width="120" height="120" mask="url(#svg-mask-avatar-status-round-120)">
+        <div class="avatarStack__789b4">
+            <img src="https://cdn.discordapp.com/avatars/494877048301551616/986353582adae89f83429f52ca101b7a.webp?size=128" alt=" " class="avatar__991e2" aria-hidden="true">
+        </div>
+    </foreignObject>
+    <circle fill="black" r="20" cx="100" cy="100" style="opacity: 0.45;"></circle>
+    <rect width="24" height="24" x="88" y="88" fill="#23a55a" mask="url(#svg-mask-status-online)" class="pointerEvents__585e6"></rect>
+</svg>
